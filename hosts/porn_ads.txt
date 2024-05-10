@@ -1,4 +1,4 @@
-! Title: Pord Ads blocklist 
+! Title: Porn Ads blocklist 
 ! Expires: 1 day
 # Last updated: 6 July, 2018.
 # Licensed under The MIT License.
